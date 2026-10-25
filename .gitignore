@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Input data (on Zenodo) and outputs (written by the scripts)
+data/
+results/
+
+# OS files
+.DS_Store

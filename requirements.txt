@@ -1,0 +1,4 @@
+# versions used for the published grades
+gemmi==0.7.5
+numpy==2.5.3
+scipy==1.18.1
